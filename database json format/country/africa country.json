@@ -1,0 +1,216 @@
+[
+  {
+    "country": "Morocco",
+    "zh-tw": "摩洛哥",
+    "intro": "",
+    "history": "西方和阿拉伯文化並存自然與人文地景豐富非洲最古老的國家之一",
+    "capital_city": "拉巴特",
+    "population": "36,071,000人",
+    "religion": "伊斯蘭教",
+    "tzuchi_staff": ""
+  },
+  {
+    "country": "South Africa",
+    "zh-tw": "南非",
+    "intro": "非洲第二大經濟體 中等收入的發展中國家 世界最多樣化的生態體系",
+    "history": "1992年於約堡成立聯絡處慈善工作從貧病孤老關懷開始1994年透過教育和職訓讓德本祖魯族婦女脫離貧窮2004年開闢大愛菜園，餵養愛滋遺孤",
+    "capital_city": "比勒陀利亞",
+    "population": "343人",
+    "religion": "基督教 印度教",
+    "tzuchi_staff": "343人"
+  },
+  {
+    "country": "Mozambique",
+    "zh-tw": "莫三比克",
+    "intro": "人民多以農為業 經濟低落，為重債窮國 世界最低度開發國家之一",
+    "history": "從馬普托市馬夏奇尼社區開始帶動本土志工投入慈善訪視至今超過2300位志工，分佈20個社區2019年伊代風災急難援助後展開房舍重建、教育、醫療等援助計畫",
+    "capital_city": "馬普托",
+    "population": "30,846,000人",
+    "religion": "基督教 羅馬公教",
+    "tzuchi_staff": "42人"
+  },
+  {
+    "country": "Zimbabwe",
+    "zh-tw": "辛巴威",
+    "intro": "長年政情不穩、經濟蕭條 南部非洲重要的文明發源地 世界最窮困的國家之一",
+    "history": "2007年展開首次發放2008年為弱勢學童發放文具與供餐義剪改善頭蝨與白廯問題2012年為自由小學搭建簡易教室2013年成立社區簡易復健室",
+    "capital_city": "哈拉雷",
+    "population": "13,061,239人",
+    "religion": "基督教 地方宗教",
+    "tzuchi_staff": "36人"
+  },
+  {
+    "country": "Malawi",
+    "zh-tw": "馬拉威",
+    "intro": "人民教育程度偏低 5成人口生活在貧窮線以下 天災頻傳，傳染疾病盛行",
+    "history": "2018年首次會務關懷由南非分會志工跨國前來關懷馬沁杰瑞與可倫巴社區以濟貧訪視、物資發放開始在當地開展志業",
+    "capital_city": "里朗威",
+    "population": "19,147,000人",
+    "religion": "天主教 回教",
+    "tzuchi_staff": ""
+  },
+  {
+    "country": "Sierra Leone",
+    "zh-tw": "獅子山",
+    "intro": "人民生活水平低下 世界最貧窮國家之一 經濟依賴礦業",
+    "history": "2013年伊波拉病毒遺孤關懷2016年展開長期扶困計畫改善當地衛生健康、孩童教育及糧食補給2017年與三四軍事醫院簽訂合作備忘錄",
+    "capital_city": "自由城",
+    "population": "6,440,053人",
+    "religion": "伊斯蘭教 基督教",
+    "tzuchi_staff": ""
+  },
+  {
+    "country": "Eswatini",
+    "zh-tw": "史瓦帝尼",
+    "intro": "南非主要的進口國 偶有糧食匱乏之事 7成人口生活在貧窮線下",
+    "history": "2007年首場冬令發放與恩史瓦帝基金會及華商合作爾後，每年濟助臺灣愛心白米2012年德本志工跨國前來帶動民眾的善念和助人行動",
+    "capital_city": "墨巴本",
+    "population": "1,087,200人",
+    "religion": "天主教",
+    "tzuchi_staff": "10人"
+  },
+  {
+    "country": "Zambia",
+    "zh-tw": "尚比亞",
+    "intro": "",
+    "history": "以銅礦為支柱產業良好的基礎設施和交通為開發中國家",
+    "capital_city": "路沙卡",
+    "population": "18,022,000人",
+    "religion": "傳統宗教 基督教 ",
+    "tzuchi_staff": ""
+  },
+  {
+    "country": "Namibia",
+    "zh-tw": "納米比亞",
+    "intro": "",
+    "history": "人口密度最低的國家經濟以礦產出口為主約1/2人口以農業為生",
+    "capital_city": "溫得荷克",
+    "population": "2,108,665人",
+    "religion": "基督教 土著信仰",
+    "tzuchi_staff": ""
+  },
+  {
+    "country": "Lesotho",
+    "zh-tw": "賴索托",
+    "intro": "5成人口生活在貧窮線下 愛滋病感染率居世界第三 國內失業率高達25%",
+    "history": "1995年展開濟貧與機構關懷與台商合作，在馬賽魯貧困地區設立15個職業訓練所，助居民自力更生2009年捐助農民玉米種子農民將愛心回捐，讓種子給更需要的人",
+    "capital_city": "馬塞盧",
+    "population": "2,108,328人",
+    "religion": "基督教",
+    "tzuchi_staff": "30人"
+  },
+  {
+    "country": "Botswana",
+    "zh-tw": "波札那",
+    "intro": "",
+    "history": "環境面臨乾旱和荒漠化1/3成年人患有愛滋病人均收入增長最快的國家",
+    "capital_city": "嘉柏隆里",
+    "population": "2,155,784人",
+    "religion": "基督教",
+    "tzuchi_staff": ""
+  },
+  {
+    "country": "Uganda",
+    "zh-tw": "烏干達",
+    "intro": "",
+    "history": "80%人口以農為生自然與礦藏資源豐富部族文化極為多樣",
+    "capital_city": "康培拉",
+    "population": "43,719,000人",
+    "religion": "基督教、伊斯蘭教",
+    "tzuchi_staff": ""
+  },
+  {
+    "country": "Rwanda",
+    "zh-tw": "盧安達",
+    "intro": "",
+    "history": "人口組成以年輕人為主經濟多依靠自給農業醫療保健質量普遍較低",
+    "capital_city": "吉佳利",
+    "population": "12,012,589人",
+    "religion": "基督教",
+    "tzuchi_staff": ""
+  },
+
+  {
+    "country": "Congo",
+    "zh-tw": "剛果",
+    "intro": "",
+    "history": "礦產資源極為豐富7成人口生活在貧窮線下長期糧食短缺",
+    "capital_city": "金夏沙",
+    "population": "87,521,000人",
+    "religion": "天主教 新教",
+    "tzuchi_staff": ""
+  },
+
+  {
+    "country": "Ethiopia",
+    "zh-tw": "衣索比亞 ",
+    "intro": "",
+    "history": "人口最多的內陸國家農牧業人口佔全國80%咖啡是重要的經濟作物",
+    "capital_city": "阿迪斯阿貝巴 ",
+    "population": "109,224,414人",
+    "religion": "基督教 伊斯蘭教 ",
+    "tzuchi_staff": ""
+  },
+
+  {
+    "country": "Sao Tome & Principe",
+    "zh-tw": "聖多美普林西比 ",
+    "intro": "",
+    "history": "最低度開發國家之一主要出口可可、咖啡文盲比率高",
+    "capital_city": "聖多美  ",
+    "population": "204,030人",
+    "religion": "天主教",
+    "tzuchi_staff": ""
+  },
+
+  {
+    "country": "Tanzania",
+    "zh-tw": "坦尚尼亞",
+    "intro": "",
+    "history": "有眾多自然、文化景觀90%人口從事農業工作最低度開發國家之一",
+    "capital_city": "多多馬",
+    "population": "60,549,000人",
+    "religion": "天主教 新教 ",
+    "tzuchi_staff": ""
+  },
+  {
+    "country": "Liberia",
+    "zh-tw": "賴比瑞亞",
+    "intro": "",
+    "history": "最低度開發國家之一農業佔總人口的70％糧食不能自給",
+    "capital_city": "蒙羅維亞",
+    "population": "4,555,000人",
+    "religion": "基督教 伊斯蘭教 ",
+    "tzuchi_staff": ""
+  },
+  {
+    "country": "Gambia",
+    "zh-tw": "甘比亞",
+    "intro": "",
+    "history": "非洲最小的國家資源貧乏經濟較落後糧食主要依靠進口",
+    "capital_city": "班竹",
+    "population": "1,969,300人",
+    "religion": "伊斯蘭教",
+    "tzuchi_staff": ""
+  },
+  {
+    "country": "Ivory Coast",
+    "zh-tw": "象牙海岸",
+    "intro": "",
+    "history": "境內交通發達、航空便利經濟增長較快的發展中國家可可產量和出口量居世界首位",
+    "capital_city": "亞穆蘇克羅",
+    "population": "24,682,000人",
+    "religion": "天主教 新教",
+    "tzuchi_staff": ""
+  },
+  {
+    "country": "Guinea Bissau",
+    "zh-tw": "幾內亞比索",
+    "intro": "",
+    "history": "最低度開發國家之一經濟以農業和漁業為主外債高達16億美元",
+    "capital_city": "比索",
+    "population": "1,600,000人",
+    "religion": "傳統宗教",
+    "tzuchi_staff": ""
+  }
+]

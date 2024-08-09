@@ -1,0 +1,81 @@
+[
+  {
+    "country": "Australia",
+    "zh-tw": "澳洲",
+    "intro": "豐富的自然遺產和珍貴物種 全球第12大經濟體 人均國民生產總值排名世界第5",
+    "history": "五個聯絡點分別於雪梨、墨爾本、布里斯本、黃金海岸、柏斯1996年於雪梨成立分會2001年澳洲政府正式認可為合法慈善機構",
+    "capital_city": "坎培拉",
+    "population": "24,435,038人",
+    "religion": "天主教 基督教",
+    "tzuchi_staff": "409人"
+  },
+  {
+    "country": "New Zealand",
+    "zh-tw": "紐西蘭",
+    "intro": "畜牧業為國家經濟基礎 氣候宜人、旅遊勝地遍布 有活的地形教室之稱",
+    "history": "2000年成立紐西蘭分會以奧克蘭、漢彌頓為核心點起步2002年開辦靜思語中文班2004年接觸國際難民協會，投入難民關懷2011年援助基督城地震",
+    "capital_city": "威靈頓",
+    "population": "4,242,048人",
+    "religion": "天主教",
+    "tzuchi_staff": "95人"
+  },
+  {
+    "country": "Fiji",
+    "zh-tw": "斐濟",
+    "intro": "",
+    "history": "由330個島嶼組成為南太平洋十字路口漁業為就業和外匯重要項目",
+    "capital_city": "蘇瓦",
+    "population": "898,760人",
+    "religion": "基督教 印度教",
+    "tzuchi_staff": ""
+  },
+  {
+    "country": "Northern Mariana Islands(CNMI)",
+    "zh-tw": "北馬利安納群島",
+    "intro": "",
+    "history": "為美國的自治邦位於西太平洋上的戰略要地以製衣、旅遊產業為主",
+    "capital_city": "塞班島",
+    "population": "53,833人",
+    "religion": "",
+    "tzuchi_staff": ""
+  },
+  {
+    "country": "American Samoa",
+    "zh-tw": "美屬薩摩亞",
+    "intro": "又稱東薩摩亞 美國在南半球唯一的領地 由5個火山島與2個珊瑚礁組成",
+    "capital_city": "巴哥巴哥",
+    "population": "46,366人",
+    "religion": "基督教 天主教",
+    "tzuchi_staff": ""
+  },
+  {
+    "country": "Solomon Islands",
+    "zh-tw": "索羅門群島",
+    "intro": "南太平洋地區第三大島國 超過990個島嶼組成 最低度開發國家之一",
+    "history": "2000、2002及2004年度多次捐贈衣物、日常用品及文具援助逾二萬貧民2017年和臺商全球漁業公司捐贈醫療酒精予當地醫院、診所",
+    "capital_city": "荷尼阿拉",
+    "population": "660,121人",
+    "religion": "基督教",
+    "tzuchi_staff": ""
+  },
+  {
+    "country": "Micronesia",
+    "zh-tw": "密克羅尼西亞",
+    "intro": "糧食及日用品需靠進口 經濟較為落後 積極開發旅遊觀光業",
+    "history": "1998年夏克島醫療設備不足捐贈多項醫療物資、儀器2002年7月颶風襲擊贈家庭醫藥箱、藥品及醫療用品並在塔諾斯島舉辦兩日義診",
+    "capital_city": "帕利基爾",
+    "population": "104,468人",
+    "religion": "天主教 基督新教",
+    "tzuchi_staff": ""
+  },
+  {
+    "country": "Papua New Guinea",
+    "zh-tw": "巴布亞紐幾內亞",
+    "intro": "",
+    "history": "豐富的自然資源多山崎嶇地形、內陸交通不便",
+    "capital_city": "莫爾茲比港",
+    "population": "8,084,800人",
+    "religion": "基督教 天主教",
+    "tzuchi_staff": ""
+  }
+]
